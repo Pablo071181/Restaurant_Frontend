@@ -1,5 +1,6 @@
 import React from 'react';
 import Delivery from './sections/Delivery'
+import Container from 'react-bootstrap/Container';
 import Footer from './sections/Footer';
 
 const Online = () => {
@@ -11,6 +12,10 @@ const Online = () => {
         <section>
             <Delivery />
         </section>
+        <Container>
+              <p> </p>
+              <p> </p>
+       </Container>
         <section>
         <Footer />
         </section>
