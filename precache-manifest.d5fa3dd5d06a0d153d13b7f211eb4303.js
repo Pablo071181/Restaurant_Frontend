@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "60f5a57cca3f2431c9c0",
-    "url": "/Restaurant_Frontend/static/css/main.4a40a9fd.chunk.css"
+    "revision": "da1659d40fb247603ffc",
+    "url": "/Restaurant_Frontend/static/css/main.0325f41c.chunk.css"
   },
   {
-    "revision": "60f5a57cca3f2431c9c0",
-    "url": "/Restaurant_Frontend/static/js/main.60f5a57c.chunk.js"
+    "revision": "da1659d40fb247603ffc",
+    "url": "/Restaurant_Frontend/static/js/main.da1659d4.chunk.js"
   },
   {
     "revision": "8c6c46e92f59f65aaa3a",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Restaurant_Frontend/static/js/runtime~main.00e37794.js"
   },
   {
-    "revision": "7fd2d4cb17df68181c8aac55d7806f5d",
+    "revision": "b5efdfcdc66d642b92b15f2b691f683e",
     "url": "/Restaurant_Frontend/index.html"
   }
 ];
