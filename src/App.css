@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 body {
-  background-color: white;
+  background-color: rgb(200, 28, 28);
   margin: auto;
   padding: 0px;
   overflow-x: hidden;
@@ -30,7 +30,7 @@ img {
   text-align: center;
   display: block;
   margin: 0 auto;
-  color: #07a8ff;
+  color: #012f47;
   font-family: 'Inter', sans-serif;
 }
 .navBar .logo img {
@@ -191,7 +191,7 @@ li {
   position: absolute;
   left: 0;
   z-index: 10007;
-  background-color: #d8f1ff;
+  background-color: #33a8ec;
   border-bottom: 3px solid #ff3d00;
   right: 0;
   padding-bottom: 17px;
