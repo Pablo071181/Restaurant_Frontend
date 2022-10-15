@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import {NavLink, Link} from 'react-router-dom';
 import {FiAlignRight,FiXCircle,FiChevronDown } from "react-icons/fi";
-import logo from '../../img/logo_restaurant.jpg';
+//import logo from '../../img/logo_restaurant.jpg';
 
 
 const Navbarmenu = () => {
@@ -41,11 +41,11 @@ const Navbarmenu = () => {
             <div className="row">
 
                 {/* Add Logo  */}
-                <div className="header__middle__logo">
-                    <NavLink exact activeClassName='is-active' to="/">
-                        <img src={logo} alt="logo" /> 
-                    </NavLink>
-                </div>
+                <div className="container">
+        <Link to="/" className="navbar-brand fs-3 ubuntu">
+          Proyecto <span className="text-primary">Restaurant</span>
+        </Link>
+        </div>
 
                 <div className="header__middle__menus">
                     <nav className="main-nav " >
