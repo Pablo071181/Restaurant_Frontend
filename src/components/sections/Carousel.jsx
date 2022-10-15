@@ -20,8 +20,8 @@ function CarouselFadeExample() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3>Delicia Italiana</h3>
+          <p>Preparado con los mejores ingredientes</p>
         </Carousel.Caption>
         </div>
       </Carousel.Item>
@@ -33,8 +33,8 @@ function CarouselFadeExample() {
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>Parrillas</h3>
+          <p>Preparado con las mejores carnes</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -45,9 +45,9 @@ function CarouselFadeExample() {
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
+          <h3>Delicia Oriental</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+            Los mejores sabores del Oriente
           </p>
         </Carousel.Caption>
       </Carousel.Item>
