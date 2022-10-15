@@ -35,7 +35,7 @@ img {
 }
 .navBar .logo img {
   float: left;
-  max-height: 80px;
+  max-height: 50px;
 }
 .is-active {
   color: #ff5800!important;
@@ -161,7 +161,7 @@ li {
 }
 
 .header__middle__logo img{
-  max-width: 150px;
+  max-width: 80px;
   margin: 17px 0 0 0;
   box-shadow: #07a8ff;
 }

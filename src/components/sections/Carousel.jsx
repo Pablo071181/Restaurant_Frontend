@@ -9,10 +9,11 @@ function CarouselFadeExample() {
     <Container>
       <Row>
       <Col>
-      
+    
     <Carousel fade>
       
       <Carousel.Item>
+        <div>
         <img
           className="d-block w-100"
           src="https://i.postimg.cc/3JWb8YZP/Slider3.jpg"
@@ -22,6 +23,7 @@ function CarouselFadeExample() {
           <h3>First slide label</h3>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </Carousel.Caption>
+        </div>
       </Carousel.Item>
       <Carousel.Item>
         <img
