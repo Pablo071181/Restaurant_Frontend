@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 body {
-  background-color: rgb(200, 28, 28);
+  background-color: rgba(144, 24, 24, 0.464);
+  background-image: linear-gradient();
   margin: auto;
   padding: 0px;
   overflow-x: hidden;
@@ -171,7 +172,7 @@ li {
 .header__middle__logo {width: 77%;}
 .header__middle__menus {width: 20%;}
 .header__middle__logo img {max-width: 190px;margin: 27px 0 0 0;}
-.main-nav .menubar__button:hover {background-color: #f44336;}
+.main-nav .menubar__button:hover {background-color: #eb4438;}
 .main-nav .menu-item:hover > a {color: #07a8ff !important}
 .main-nav .menubar__button {
   display: block!important;
